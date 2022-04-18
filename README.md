@@ -8,3 +8,6 @@ Additional skills (which I do not use in frontend development):
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c)](https://skillicons.dev)
 
+I also create discord bots:
+
+[![My Skills](https://skillicons.dev/icons?i=discord,bots)](https://skillicons.dev)
