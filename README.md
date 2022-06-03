@@ -2,7 +2,10 @@
 
 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py,html,css,js,ts,react,redux,angular,firebase,git,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py)](https://skillicons.dev)
+
+Frontend skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular,firebase,git,figma,ps)](https://skillicons.dev)
 
 I also create discord bots:
 
