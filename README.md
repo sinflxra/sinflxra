@@ -1,6 +1,6 @@
 ### Hello there, I'm Illia, software engineer 👋
 
-SE Skills:
+Main Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py)](https://skillicons.dev)
 
