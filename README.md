@@ -2,9 +2,9 @@
 
 Main Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,c,py)](https://skillicons.dev)
 
-Frontend skills:
+Secondary skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular,firebase,figma,ps)](https://skillicons.dev)
 
